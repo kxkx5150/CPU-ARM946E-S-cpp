@@ -1,4 +1,4 @@
-# CPU-ARM946E-cpp
+# CPU-ARM946E-S-cpp
 
 ## Nintendo DS emulator
 
