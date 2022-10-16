@@ -16,6 +16,10 @@ sudo apt-get install libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev libsdl2-net
 
 <br><br><br>
 
+https://user-images.githubusercontent.com/10168979/196022334-b4f368cf-ff2a-4558-8568-183ad1380aa8.mp4
+
+
+
 use [NooDS](https://github.com/Hydr8gon/NooDS) as a reference
 
 <br><br><br><br><br><br>
